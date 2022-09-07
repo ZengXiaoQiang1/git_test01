@@ -1,3 +1,4 @@
 sout 01 new
 sout 02 add
 sout 03 hot-fix add 01
+sout 04 master conflict
